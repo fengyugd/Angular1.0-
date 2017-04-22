@@ -11,7 +11,6 @@ body {
 *:focus {
   outline: 0 !important;
 }
-
 small,
 .small {
   font-size: 13px;
