@@ -1,4 +1,4 @@
-// Èë¿ÚÎÄ¼þ
+/* 存放app文件*/
 angular.module("myapp",['routeJs','ngRoute'])
 .controller("mainctrl",function($scope){
 	$scope.userName="fy权世界";

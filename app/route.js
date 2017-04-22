@@ -1,3 +1,4 @@
+//
 angular.module('routeJs',['ngRoute'])
 	.config(['$routeProvider',function($routeProvider){
 		$routeProvider
